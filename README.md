@@ -27,11 +27,10 @@ Package / Library Name | Features                            | URL Reference    
 -----------------------|-------------------------------------|-----------------------|
 Pandas Profiling       | Type inference, Quantile and Descriptive Stats, Most frequent values, Histogram, Correlations, Missing Values, Text analysis, Image analysis |https://pypi.org/project/pandas-profiling/ |
 SweetViz               | Target Analysis, Visualize and Compare, Mized-Type Associations, Type Inference, Summary Information | https://pypi.org/project/sweetviz/ |
-AutoViz                | Scatter Plots, Pair-wise Scatter Plots, Histograms (KDE Plots), Violin Plot, Heatmap, Bar Plots  | https://github.com/AutoViML/AutoViz
+AutoViz                | Scatter Plots, Pair-wise Scatter Plots, Histograms (KDE Plots), Violin Plot, Heatmap, Bar Plots  | https://github.com/AutoViML/AutoViz |
+LUX                    | Correlation, Distribution, Occurrence, Geographical analysis, Current visualization and comparision with Enhance/Filter/Generalize approach | https://pypi.org/project/lux-api/ |
 
 
-- AutoViz
-- LUX
 - D Tale
 - Dataprep
 
