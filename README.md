@@ -22,8 +22,14 @@ How AutoEDA comes into play:
 ## Details
 
 Some of the key AutoEDA in Python are as follows:
-- Pandas Profiling
-- SweetViz
+
+Package / Library Name | Features                            | URL Reference         |
+-----------------------|-------------------------------------|-----------------------|
+Pandas Profiling       | Type inference, Quantile and Descriptive Stats, Most frequent values, Histogram, Correlations, Missing Values, Text analysis, Image analysis |https://pypi.org/project/pandas-profiling/ |
+SweetViz               | Target Analysis, Visualize and Compare, Mized-Type Associations, Type Inference, Summary Information | https://pypi.org/project/sweetviz/ |
+AutoViz                | Scatter Plots, Pair-wise Scatter Plots, Histograms (KDE Plots), Violin Plot, Heatmap, Bar Plots  | https://github.com/AutoViML/AutoViz
+
+
 - AutoViz
 - LUX
 - D Tale
@@ -35,9 +41,9 @@ Some of the key AutoEDA in Python are as follows:
 Notebook references will be captured and the list will be updated below.
 
 ## References
-
 - Pandas Profiling : https://pypi.org/project/pandas-profiling/
 - SweetViz : https://pypi.org/project/sweetviz/
+- AutoViz : https://github.com/AutoViML/AutoViz
 
 **Our attempt here is to capture use cases / real life applications in industry leveraging these.**
 
