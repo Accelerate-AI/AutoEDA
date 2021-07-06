@@ -17,7 +17,7 @@ Why do we need EDA:
 How AutoEDA comes into play:
 - We leverage some of the existing packages to **save time** in our analysis efforts
 - There is need to analyze lots of messy and large datasets at initial phases in DS program for "Data Understanding". This is where AutoEDA helps **quick insight generation**
-- **Understanding data patterns and uncovering hidden insights** - Key step before we perform any "Data Preparation" / "Feature Engineering" step prior to Model development
+- **Feature wise comparision** of understanding data patterns and uncovering hidden insights which is a key step before we perform any "Data Preparation" / "Feature Engineering" step prior to Model development
 
 ## Details
 
