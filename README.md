@@ -29,6 +29,13 @@ Some of the key AutoEDA in Python are as follows:
 - D Tale
 - Dataprep
 
+
+## Notebooks / Kernels
+
+Notebook references will be captured and the list will be updated below.
+
+
+
 **Our attempt here is to capture use cases / real life applications in industry leveraging these.**
 
 ## Suggestions / Questions if any ?
