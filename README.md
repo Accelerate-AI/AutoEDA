@@ -34,7 +34,9 @@ Some of the key AutoEDA in Python are as follows:
 
 Notebook references will be captured and the list will be updated below.
 
+## References
 
+- SweetViz (https://pypi.org/project/sweetviz/)
 
 **Our attempt here is to capture use cases / real life applications in industry leveraging these.**
 
