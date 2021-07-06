@@ -36,7 +36,8 @@ Notebook references will be captured and the list will be updated below.
 
 ## References
 
-- SweetViz (https://pypi.org/project/sweetviz/)
+- Pandas Profiling : https://pypi.org/project/pandas-profiling/
+- SweetViz : https://pypi.org/project/sweetviz/
 
 **Our attempt here is to capture use cases / real life applications in industry leveraging these.**
 
