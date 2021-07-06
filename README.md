@@ -29,10 +29,8 @@ Pandas Profiling       | Type inference, Quantile and Descriptive Stats, Most fr
 SweetViz               | Target Analysis, Visualize and Compare, Mized-Type Associations, Type Inference, Summary Information | https://pypi.org/project/sweetviz/ |
 AutoViz                | Scatter Plots, Pair-wise Scatter Plots, Histograms (KDE Plots), Violin Plot, Heatmap, Bar Plots  | https://github.com/AutoViML/AutoViz |
 LUX                    | Correlation, Distribution, Occurrence, Geographical analysis, Current visualization and comparision with Enhance/Filter/Generalize approach | https://pypi.org/project/lux-api/ |
-
-
-- D Tale
-- Dataprep
+DataPrep               | Distributions, Correlations, Missing Values analysis, Profile Report with various stats, Time series data analysis, Faster than others like Pandas Profiling due to Dask based computing module | https://pypi.org/project/dataprep/ |
+D Tale                 | Combination of Flask back-end and React front-end to view and analyze Pandas data structures, Integrates with IPython notebooks, supports interactive plots, 3d plots, heat maps, the correlation between features, builds custom columns, and many more | https://pypi.org/project/dtale/ |
 
 
 ## Notebooks / Kernels
