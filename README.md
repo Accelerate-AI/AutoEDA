@@ -26,11 +26,11 @@ Some of the key AutoEDA in Python are as follows:
 Package / Library Name | Features                            | URL Reference         |
 -----------------------|-------------------------------------|-----------------------|
 Pandas Profiling       | Type inference, Quantile and Descriptive Stats, Most frequent values, Histogram, Correlations, Missing Values, Text analysis, Image analysis |https://pypi.org/project/pandas-profiling/ |
-SweetViz               | Target Analysis, Visualize and Compare, Mized-Type Associations, Type Inference, Summary Information | https://pypi.org/project/sweetviz/ |
+SweetViz               | Target Analysis, Visualize and Compare, Mixed-Type Associations, Type Inference, Summary Information | https://pypi.org/project/sweetviz/ |
 AutoViz                | Scatter Plots, Pair-wise Scatter Plots, Histograms (KDE Plots), Violin Plot, Heatmap, Bar Plots  | https://github.com/AutoViML/AutoViz |
 LUX                    | Correlation, Distribution, Occurrence, Geographical analysis, Current visualization and comparision with Enhance/Filter/Generalize approach | https://pypi.org/project/lux-api/ |
 DataPrep               | Distributions, Correlations, Missing Values analysis, Profile Report with various stats, Time series data analysis, Faster than others like Pandas Profiling due to Dask based computing module | https://pypi.org/project/dataprep/ |
-D Tale                 | Combination of Flask back-end and React front-end to view and analyze Pandas data structures, Integrates with IPython notebooks, supports interactive plots, 3d plots, heat maps, the correlation between features, builds custom columns, and many more | https://pypi.org/project/dtale/ |
+D Tale                 | Combination of Flask back-end and React front-end to view and analyze Pandas data structures, Integrates with IPython notebooks, supports interactive plots, 3d plots, heat maps, the correlation between features, builds custom columns etc. | https://pypi.org/project/dtale/ |
 
 **P.S: This may not be an exhaustive list**
 
