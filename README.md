@@ -19,7 +19,7 @@ How AutoEDA comes into play:
 - There is need to analyze lots of messy and large datasets at initial phases in DS program for "Data Understanding". This is where AutoEDA helps **quick insight generation**
 - **Feature wise comparision** of understanding data patterns and uncovering hidden insights which is a key step before we perform any "Data Preparation" / "Feature Engineering" step prior to Model development
 
-## Details
+## AutoEDA Options with Features
 
 Some of the key AutoEDA in Python are as follows:
 
@@ -32,6 +32,7 @@ LUX                    | Correlation, Distribution, Occurrence, Geographical ana
 DataPrep               | Distributions, Correlations, Missing Values analysis, Profile Report with various stats, Time series data analysis, Faster than others like Pandas Profiling due to Dask based computing module | https://pypi.org/project/dataprep/ |
 D Tale                 | Combination of Flask back-end and React front-end to view and analyze Pandas data structures, Integrates with IPython notebooks, supports interactive plots, 3d plots, heat maps, the correlation between features, builds custom columns, and many more | https://pypi.org/project/dtale/ |
 
+**P.S: This may not be an exhaustive list**
 
 ## Notebooks / Kernels
 
@@ -42,11 +43,11 @@ Notebook references will be captured and the list will be updated below.
 - SweetViz : https://pypi.org/project/sweetviz/
 - AutoViz : https://github.com/AutoViML/AutoViz
 
-**Our attempt here is to capture use cases / real life applications in industry leveraging these.**
 
 ## Suggestions / Questions if any ?
 
-- Please reach out to AccelerateDataScience@gmail.com for any questions or suggestions or comments.
+- Please reach out to ```AccelerateDataScience@gmail.com``` for any questions or suggestions or comments.
+- Our attempt here is to capture use cases / real life applications in industry leveraging these.
 
 
 
