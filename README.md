@@ -36,15 +36,15 @@ D Tale                 | Combination of Flask back-end and React front-end to vi
 
 ## 4. Notebooks / Kernels
 
-Notebook references will be captured and the list will be updated below.
+Sample Notebooks are kept [here](https://github.com/Accelerate-AI/AutoEDA/tree/main/notebooks)
 
-## 5. References
-- Pandas Profiling : https://pypi.org/project/pandas-profiling/
-- SweetViz : https://pypi.org/project/sweetviz/
-- AutoViz : https://github.com/AutoViML/AutoViz
-- LUX : https://pypi.org/project/lux-api/
-- DataPrep : https://pypi.org/project/dataprep/
-- DTale : https://pypi.org/project/dtale/
+
+## 5. Interpretation Summary
+
+- If we want to get quick insights on statistical inferences, missing values, duplicates, categorical/numerical/text features, correlations, interactions, top and bottom 10 rows, comparision between train and test datasets, then we can leverage some of these AutoEDA libraries and their capabilities.
+- This helps in saving time significantly as we quickly generate some statistical inferences, insights as part of these reports / outcomes.
+- If the dataset is large, we may use "DataPrep" which seems to be 10X faster than Pandas Profiling as it uses Dask based computing methods.
+- We have used one sample dataset (Loan Eligible / Loan Prediction dataset) for the analysis to demonstrate features of various techniques. These can be used based on scenarios, data context, business need, feasibility etc. These are non-exhaustive list.
 
 
 ## 6. Suggestions / Questions if any ?
