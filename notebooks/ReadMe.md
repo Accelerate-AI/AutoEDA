@@ -14,7 +14,7 @@
   - The PDF version of the Jupyter Notebook file: ``` autoeda-loanprediction-sweetviz.pdf ```
 - [ ] AutoViz
   - To be added
-- [ ] LUX
+- [X] LUX
   - The Jupyter Notebook file: ``` autoeda-loanprediction-lux.ipynb ```
   - The converted html file: ``` autoeda-loanprediction-lux.html ```
 - [ ] DTale
