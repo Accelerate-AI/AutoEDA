@@ -15,7 +15,7 @@
 - [ ] AutoViz
   - To be added
 - [ ] LUX
-  - To be added
+  - The Jupyter Notebook file: ``` autoeda-loanprediction-lux.ipynb ```
 - [ ] DTale
   - To be added
 
