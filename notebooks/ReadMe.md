@@ -16,6 +16,7 @@
   - To be added
 - [ ] LUX
   - The Jupyter Notebook file: ``` autoeda-loanprediction-lux.ipynb ```
+  - The converted html file: ``` autoeda-loanprediction-lux.html ```
 - [ ] DTale
   - To be added
 
