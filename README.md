@@ -4,7 +4,7 @@
 
 To understand what is AutoEDA, what is the need, why it is used in Data Science projects and what are the libraries / packages that we can leverage from programming language perspective such as Python to help facilitate data exploration and data analysis efforts in any project.
 
-![AutoEDA](https://github.com/Accelerate-AI/AutoEDA/blob/main/images/AutoEDA.png)
+![AutoEDA](/images/AutoEDA.png)
 
 ## 2. What is AutoEDA
 
