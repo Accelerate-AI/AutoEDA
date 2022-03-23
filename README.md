@@ -59,7 +59,8 @@ Sample Notebooks are kept [here](https://github.com/Accelerate-AI/AutoEDA/tree/m
 
 - Please reach out to ```acceler8.ai@gmail.com``` for any questions or suggestions or comments.
 - Our attempt here is to capture use cases / real life applications in industry leveraging these.
-
+- Want to explore more in depth?
+  - Please join our Learning Circle [here](https://accelerateai.mojo.page/aai-learning-circle-pro) for a thorough understanding of month by month topic coverage with industry based use case learning approach of respective topic.
 
 
 
