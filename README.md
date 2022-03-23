@@ -42,8 +42,12 @@ D Tale                 | Combination of Flask back-end and React front-end to vi
 
 Sample Notebooks are kept [here](https://github.com/Accelerate-AI/AutoEDA/tree/main/notebooks)
 
+## 5. YouTube Video References
+  
+- Please refer [AutoEDA specific videos here](https://www.youtube.com/watch?v=KcWV-qMOB-c&list=PLVhva2EzNlz3d1kDAASFVQVnf21v-jCOj)
+- Please refer [DV principles and DV using Matplotlib, Seaborn and Plotly here](https://www.youtube.com/watch?v=nPkYcnW9anY&list=PLVhva2EzNlz0Y8_syb46G-IxprOGhemht)
 
-## 5. Interpretation Summary
+## 6. Interpretation Summary
 
 - [X] If we want to get quick insights on statistical inferences, missing values, duplicates, categorical/numerical/text features, correlations, interactions, top and bottom 10 rows, comparision between train and test datasets, then we can leverage some of these AutoEDA libraries and their capabilities.
 - [X] This helps in saving time significantly as we quickly generate some statistical inferences, insights as part of these reports / outcomes.
@@ -51,7 +55,7 @@ Sample Notebooks are kept [here](https://github.com/Accelerate-AI/AutoEDA/tree/m
 - [X] We have used one sample dataset (Loan Eligible / Loan Prediction dataset) for the analysis here to demonstrate features of various techniques. These can be used based on scenarios, data context, business need, feasibility etc. These are non-exhaustive list.
 
 
-## 6. Suggestions / Questions if any ?
+## 7. Suggestions / Questions if any ?
 
 - Please reach out to ```acceler8.ai@gmail.com``` for any questions or suggestions or comments.
 - Our attempt here is to capture use cases / real life applications in industry leveraging these.
