@@ -53,7 +53,7 @@ Sample Notebooks are kept [here](https://github.com/Accelerate-AI/AutoEDA/tree/m
 
 ## 6. Suggestions / Questions if any ?
 
-- Please reach out to ```AccelerateDataScience@gmail.com``` for any questions or suggestions or comments.
+- Please reach out to ```acceler8.ai@gmail.com``` for any questions or suggestions or comments.
 - Our attempt here is to capture use cases / real life applications in industry leveraging these.
 
 
