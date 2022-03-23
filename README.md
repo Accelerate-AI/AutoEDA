@@ -62,5 +62,5 @@ Sample Notebooks are kept [here](https://github.com/Accelerate-AI/AutoEDA/tree/m
 - Want to explore more in depth?
   - Please join our Learning Circle [here](https://accelerateai.mojo.page/aai-learning-circle-pro) for a thorough understanding of month by month topic coverage with industry based use case learning approach of respective topic.
 
-
+Additionally, subscribe to [AccelerateAI Interview Accelerator](https://accelerateai.mojo.page/accelerateai-interview-accelerator) program to succeed in interviews across various roles in Data Science.
 
